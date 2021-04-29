@@ -156,6 +156,7 @@
     <ClCompile Include="01-03.cpp" />
     <ClCompile Include="01-04-sub.cpp" />
     <ClCompile Include="01-04.cpp" />
+    <ClCompile Include="BankingSystemVer01.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="01-04.h" />
