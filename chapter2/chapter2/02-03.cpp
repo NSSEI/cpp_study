@@ -15,6 +15,7 @@ int main()
 
 	p1->xpos = 1;
 	p1->ypos = 2;
+
 	p2->xpos = 3;
 	p2->ypos = 4;
 	
