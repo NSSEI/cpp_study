@@ -20,7 +20,7 @@ int main()
 	std::srand(time(NULL));
 	for (int i = 5; i != 0; i--)
 	{
-		std::cout << rand()%100 << std::endl;
+		std::cout << std::rand()%100 << std::endl;
 	}
 	return 0;
 }
